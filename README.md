@@ -1,6 +1,6 @@
 # ReduxBasicStructure
 
-#npm install
+# npm install
 
 To install dependencies 
 
